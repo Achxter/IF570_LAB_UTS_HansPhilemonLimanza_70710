@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "407527006734",
+    "project_id": "if570-lab-uts-70710-fe593",
+    "storage_bucket": "if570-lab-uts-70710-fe593.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407527006734:android:a67ac9dee39ae48d73925f",
+        "android_client_info": {
+          "package_name": "com.example.if570_lab_uts_hansphilemonlimanza_70710"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS8a92tx__Cp6srOB9H7W1hOdWveNYPG0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

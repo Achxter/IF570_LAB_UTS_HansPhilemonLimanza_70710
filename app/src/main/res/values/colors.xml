@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#00171F</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="prussian_blue">#003459</color>
+    <color name="cerulean">#007EA7</color>
+    <color name="aqua">#00F5FF</color>
+    <color name="ash_gray">#adbabd</color>
+</resources>
